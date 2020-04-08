@@ -30,7 +30,7 @@ h3 {
   flex-flow: column nowrap;
   align-items: center;
   justify-content: center;
-  background: url('../images/new/8.jpg') center no-repeat;
+  background: url('../images/hbd_selected/8.webp') center no-repeat;
   background-size: cover;
 }
 
@@ -74,7 +74,7 @@ h3 {
 }
 
 .main-container {
-  background: linear-gradient(to right, rgba(255, 255, 255, .2), rgba(255, 255, 255, .2)), url('../images/new/22.jpg') center;
+  background: linear-gradient(to right, rgba(255, 255, 255, .2), rgba(255, 255, 255, .2)), url('../images/hbd_selected/22.webp') center;
   background-repeat: no-repeat;
   background-size: cover;
   display: grid;
